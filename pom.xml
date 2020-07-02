@@ -41,7 +41,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.30</version>
+            <version>8.0.16</version>
             <!--<scope>runtime</scope>  表示被依赖项目无需参与当前项目的编译，不过后期的测试和运行周期需要其参与。-->
         </dependency>
         <!--mybtais和plus的jar资源-->
